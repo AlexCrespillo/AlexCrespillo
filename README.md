@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./A_digital_graphic_design_banner_features_"Alex_Cre.png)
 
 # 👋 Hi, I’m Alex Crespillo
 
