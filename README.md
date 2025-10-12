@@ -1,8 +1,12 @@
 # Hi there 👋 I'm Alex Crespillo López
 
-[![Header](ChatGPT Image 12 oct 2025, 18_35_58.png)](https://portfoliofinalalex.netlify.app)
+<p align="center">
+  <a href="https://portfoliofinalalex.netlify.app">
+    <img src="https://github.com/AlexCrespillo/AlexCrespillo/blob/main/header.png?raw=true" 
+         alt="Header - Alex Crespillo López" width="100%">
+  </a>
+</p>
 
-<div align="center">
 
 ### 🌍 Climate Data Scientist | 🔬 Predoctoral Researcher | 🤖 AI Enthusiast
 
