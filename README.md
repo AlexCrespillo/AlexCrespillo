@@ -139,5 +139,7 @@ My research focuses on improving our understanding of drought–heatwave dynamic
 ---
 
 <div align="center">
-  <img src="https://github.com/AlexCrespillo/AlexCrespillo/blob/main/assets/footer-wave.svg" width="100%"/>
+  <img src="https://github.com/AlexCrespillo/AlexCrespillo/blob/main/footer.png?raw=true" 
+       alt="Footer - Alex Crespillo López" width="100%">
 </div>
+
