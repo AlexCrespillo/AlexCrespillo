@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Alex Crespillo López
 
-[![Header](https://github.com/AlexCrespillo/AlexCrespillo/blob/main/assets/header.png)](https://portfoliofinalalex.netlify.app)
+[![Header](ChatGPT Image 12 oct 2025, 18_35_58.png)](https://portfoliofinalalex.netlify.app)
 
 <div align="center">
 
