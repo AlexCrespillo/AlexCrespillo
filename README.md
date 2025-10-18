@@ -86,6 +86,7 @@ My research focuses on improving our understanding of drought–heatwave dynamic
 
 ## 📚 Latest Publications
 
+- 📄 **Vicente-Serrano, S. M.**, et al. "Developing science-informed maps and climate service for extreme rainfall in Spain ." *Springer - Natural Hazards* (2025) — **Coauthor**
 - 📄 **Halifa Marin, A.**, et al. "Spatial Assessment of Dry-Spell Hazards in Spain: Toward an Operational Climate Service." *Water Scarcity and Drought* (2025) — **Coauthor**
 - 📄 **Vicente-Serrano, S. M.**, et al. "An optimal and flexible approach for drought quantification based on standardized indices." *International Journal of Climatology* (2025) — **Coauthor**
 - 📄 **Crespillo López, A.**, "Thermal inversion analysis in Andorra Central Valley and its relationship with pollutants and meteorological variables." *EMS Annual Meeting* (2024) — **Author**
