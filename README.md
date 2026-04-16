@@ -85,7 +85,7 @@ My research focuses on improving our understanding of drought–heatwave dynamic
 ---
 
 ## 📚 Latest Publications
-
+- 📄 **Vicente-Serrano, S. M., S.Beguería, A.Royo, et al. 2026. “Non-Stationary Dry-Spell Hazard Probabilities for Spain.” International Journal of Climatologye70393. https://doi.org/10.1002/joc.70393. — **Coauthor**
 - 📄 **Vicente-Serrano, S. M.**, et al. "Developing science-informed maps and climate service for extreme rainfall in Spain ." *Springer - Natural Hazards* (2025) — **Coauthor**
 - 📄 **Halifa Marin, A.**, et al. "Spatial Assessment of Dry-Spell Hazards in Spain: Toward an Operational Climate Service." *Water Scarcity and Drought* (2025) — **Coauthor**
 - 📄 **Vicente-Serrano, S. M.**, et al. "An optimal and flexible approach for drought quantification based on standardized indices." *International Journal of Climatology* (2025) — **Coauthor**
