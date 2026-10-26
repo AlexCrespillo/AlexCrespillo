@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Alex Crespillo López: how drought travels through rivers">
+<style>:root{--paper:#f7f5f0;--drought:#c0731a}
+.bg{fill:#f7f5f0}
+.base{fill:none;stroke:#9fc0d3;stroke-linecap:round}
+.dry{fill:none;stroke:#c0731a;stroke-linecap:round;animation-fill-mode:both}
+.dryg{animation:fade 9.0s linear infinite}
+@keyframes fade{0%,82%{opacity:1}90%,99%{opacity:0}100%{opacity:1}}
+.gauge{stroke:#1b2430;stroke-width:1.6;fill:#f7f5f0}
+.name{font:500 54px Georgia,'Times New Roman',serif;fill:#1b2430;letter-spacing:-0.5px}
+.tag{font:400 25px Georgia,'Times New Roman',serif;fill:#1b2430}
+.eyebrow{font:600 14px Consolas,'Courier New',monospace;fill:#c0731a;letter-spacing:2px}
+.small{font:400 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#5d6673}
+.lbl{font:500 11px Consolas,'Courier New',monospace;fill:#5d6673;letter-spacing:1px}
+@keyframes k1{0%,46.1%{stroke-dashoffset:100.1}62.0%,100%{stroke-dashoffset:0}}.l1{stroke-dasharray:100.1;stroke-dashoffset:100.1;animation:k1 9.0s linear infinite}@keyframes k2{0%,34.2%{stroke-dashoffset:75.5}46.1%,100%{stroke-dashoffset:0}}.l2{stroke-dasharray:75.5;stroke-dashoffset:75.5;animation:k2 9.0s linear infinite}@keyframes k3{0%,20.9%{stroke-dashoffset:59.4}30.3%,100%{stroke-dashoffset:0}}.l3{stroke-dasharray:59.4;stroke-dashoffset:59.4;animation:k3 9.0s linear infinite}@keyframes k4{0%,0.5%{stroke-dashoffset:45.7}7.7%,100%{stroke-dashoffset:0}}.l4{stroke-dasharray:45.7;stroke-dashoffset:45.7;animation:k4 9.0s linear infinite}@keyframes k5{0%,13.6%{stroke-dashoffset:46.5}20.9%,100%{stroke-dashoffset:0}}.l5{stroke-dasharray:46.5;stroke-dashoffset:46.5;animation:k5 9.0s linear infinite}@keyframes k6{0%,7.5%{stroke-dashoffset:38.8}13.6%,100%{stroke-dashoffset:0}}.l6{stroke-dasharray:38.8;stroke-dashoffset:38.8;animation:k6 9.0s linear infinite}@keyframes k7{0%,2.9%{stroke-dashoffset:28.7}7.5%,100%{stroke-dashoffset:0}}.l7{stroke-dasharray:28.7;stroke-dashoffset:28.7;animation:k7 9.0s linear infinite}@keyframes k8{0%,1.6%{stroke-dashoffset:33.3}6.9%,100%{stroke-dashoffset:0}}.l8{stroke-dasharray:33.3;stroke-dashoffset:33.3;animation:k8 9.0s linear infinite}@keyframes k9{0%,7.6%{stroke-dashoffset:35.5}13.2%,100%{stroke-dashoffset:0}}.l9{stroke-dasharray:35.5;stroke-dashoffset:35.5;animation:k9 9.0s linear infinite}@keyframes k10{0%,2.3%{stroke-dashoffset:27.9}6.8%,100%{stroke-dashoffset:0}}.l10{stroke-dasharray:27.9;stroke-dashoffset:27.9;animation:k10 9.0s linear infinite}@keyframes k11{0%,3.2%{stroke-dashoffset:27.7}7.6%,100%{stroke-dashoffset:0}}.l11{stroke-dasharray:27.7;stroke-dashoffset:27.7;animation:k11 9.0s linear infinite}@keyframes k12{0%,24.1%{stroke-dashoffset:63.9}34.2%,100%{stroke-dashoffset:0}}.l12{stroke-dasharray:63.9;stroke-dashoffset:63.9;animation:k12 9.0s linear infinite}@keyframes k13{0%,15.0%{stroke-dashoffset:57.7}24.1%,100%{stroke-dashoffset:0}}.l13{stroke-dasharray:57.7;stroke-dashoffset:57.7;animation:k13 9.0s linear infinite}@keyframes k14{0%,7.1%{stroke-dashoffset:49.0}14.9%,100%{stroke-dashoffset:0}}.l14{stroke-dasharray:49.0;stroke-dashoffset:49.0;animation:k14 9.0s linear infinite}@keyframes k15{0%,0.1%{stroke-dashoffset:36.9}6.0%,100%{stroke-dashoffset:0}}.l15{stroke-dasharray:36.9;stroke-dashoffset:36.9;animation:k15 9.0s linear infinite}@keyframes k16{0%,1.1%{stroke-dashoffset:38.2}7.1%,100%{stroke-dashoffset:0}}.l16{stroke-dasharray:38.2;stroke-dashoffset:38.2;animation:k16 9.0s linear infinite}@keyframes k17{0%,7.2%{stroke-dashoffset:49.6}15.0%,100%{stroke-dashoffset:0}}.l17{stroke-dasharray:49.6;stroke-dashoffset:49.6;animation:k17 9.0s linear infinite}@keyframes k18{0%,0.4%{stroke-dashoffset:39.7}6.7%,100%{stroke-dashoffset:0}}.l18{stroke-dasharray:39.7;stroke-dashoffset:39.7;animation:k18 9.0s linear infinite}@keyframes k19{0%,1.0%{stroke-dashoffset:39.1}7.2%,100%{stroke-dashoffset:0}}.l19{stroke-dasharray:39.1;stroke-dashoffset:39.1;animation:k19 9.0s linear infinite}@keyframes k20{0%,15.3%{stroke-dashoffset:53.6}23.8%,100%{stroke-dashoffset:0}}.l20{stroke-dasharray:53.6;stroke-dashoffset:53.6;animation:k20 9.0s linear infinite}@keyframes k21{0%,0.8%{stroke-dashoffset:48.2}8.5%,100%{stroke-dashoffset:0}}.l21{stroke-dasharray:48.2;stroke-dashoffset:48.2;animation:k21 9.0s linear infinite}@keyframes k22{0%,8.3%{stroke-dashoffset:44.6}15.3%,100%{stroke-dashoffset:0}}.l22{stroke-dasharray:44.6;stroke-dashoffset:44.6;animation:k22 9.0s linear infinite}@keyframes k23{0%,2.2%{stroke-dashoffset:31.7}7.2%,100%{stroke-dashoffset:0}}.l23{stroke-dasharray:31.7;stroke-dashoffset:31.7;animation:k23 9.0s linear infinite}@keyframes k24{0%,2.8%{stroke-dashoffset:35.1}8.3%,100%{stroke-dashoffset:0}}.l24{stroke-dasharray:35.1;stroke-dashoffset:35.1;animation:k24 9.0s linear infinite}@keyframes k25{0%,33.3%{stroke-dashoffset:76.4}45.4%,100%{stroke-dashoffset:0}}.l25{stroke-dasharray:76.4;stroke-dashoffset:76.4;animation:k25 9.0s linear infinite}@keyframes k26{0%,23.2%{stroke-dashoffset:64.7}33.3%,100%{stroke-dashoffset:0}}.l26{stroke-dasharray:64.7;stroke-dashoffset:64.7;animation:k26 9.0s linear infinite}@keyframes k27{0%,14.5%{stroke-dashoffset:54.9}23.2%,100%{stroke-dashoffset:0}}.l27{stroke-dasharray:54.9;stroke-dashoffset:54.9;animation:k27 9.0s linear infinite}@keyframes k28{0%,7.1%{stroke-dashoffset:42.6}13.9%,100%{stroke-dashoffset:0}}.l28{stroke-dasharray:42.6;stroke-dashoffset:42.6;animation:k28 9.0s linear infinite}@keyframes k29{0%,0.9%{stroke-dashoffset:33.7}6.2%,100%{stroke-dashoffset:0}}.l29{stroke-dasharray:33.7;stroke-dashoffset:33.7;animation:k29 9.0s linear infinite}@keyframes k30{0%,1.4%{stroke-dashoffset:36.5}7.1%,100%{stroke-dashoffset:0}}.l30{stroke-dasharray:36.5;stroke-dashoffset:36.5;animation:k30 9.0s linear infinite}@keyframes k31{0%,6.9%{stroke-dashoffset:47.7}14.5%,100%{stroke-dashoffset:0}}.l31{stroke-dasharray:47.7;stroke-dashoffset:47.7;animation:k31 9.0s linear infinite}@keyframes k32{0%,0.4%{stroke-dashoffset:41.3}6.9%,100%{stroke-dashoffset:0}}.l32{stroke-dasharray:41.3;stroke-dashoffset:41.3;animation:k32 9.0s linear infinite}@keyframes k33{0%,0.3%{stroke-dashoffset:40.6}6.7%,100%{stroke-dashoffset:0}}.l33{stroke-dasharray:40.6;stroke-dashoffset:40.6;animation:k33 9.0s linear infinite}@keyframes k34{0%,11.4%{stroke-dashoffset:51.5}19.5%,100%{stroke-dashoffset:0}}.l34{stroke-dasharray:51.5;stroke-dashoffset:51.5;animation:k34 9.0s linear infinite}@keyframes k35{0%,5.5%{stroke-dashoffset:37.3}11.4%,100%{stroke-dashoffset:0}}.l35{stroke-dasharray:37.3;stroke-dashoffset:37.3;animation:k35 9.0s linear infinite}@keyframes k36{0%,0.5%{stroke-dashoffset:31.4}5.5%,100%{stroke-dashoffset:0}}.l36{stroke-dasharray:31.4;stroke-dashoffset:31.4;animation:k36 9.0s linear infinite}@keyframes k37{0%,0.2%{stroke-dashoffset:32.0}5.3%,100%{stroke-dashoffset:0}}.l37{stroke-dasharray:32.0;stroke-dashoffset:32.0;animation:k37 9.0s linear infinite}@keyframes k38{0%,2.8%{stroke-dashoffset:41.1}9.3%,100%{stroke-dashoffset:0}}.l38{stroke-dasharray:41.1;stroke-dashoffset:41.1;animation:k38 9.0s linear infinite}@keyframes k39{0%,20.2%{stroke-dashoffset:56.1}29.0%,100%{stroke-dashoffset:0}}.l39{stroke-dasharray:56.1;stroke-dashoffset:56.1;animation:k39 9.0s linear infinite}@keyframes k40{0%,13.0%{stroke-dashoffset:45.1}20.2%,100%{stroke-dashoffset:0}}.l40{stroke-dasharray:45.1;stroke-dashoffset:45.1;animation:k40 9.0s linear infinite}@keyframes k41{0%,6.8%{stroke-dashoffset:38.8}13.0%,100%{stroke-dashoffset:0}}.l41{stroke-dasharray:38.8;stroke-dashoffset:38.8;animation:k41 9.0s linear infinite}@keyframes k42{0%,1.0%{stroke-dashoffset:28.1}5.4%,100%{stroke-dashoffset:0}}.l42{stroke-dasharray:28.1;stroke-dashoffset:28.1;animation:k42 9.0s linear infinite}@keyframes k43{0%,2.3%{stroke-dashoffset:28.9}6.8%,100%{stroke-dashoffset:0}}.l43{stroke-dasharray:28.9;stroke-dashoffset:28.9;animation:k43 9.0s linear infinite}@keyframes k44{0%,6.9%{stroke-dashoffset:33.0}12.1%,100%{stroke-dashoffset:0}}.l44{stroke-dasharray:33.0;stroke-dashoffset:33.0;animation:k44 9.0s linear infinite}@keyframes k45{0%,2.5%{stroke-dashoffset:27.7}6.9%,100%{stroke-dashoffset:0}}.l45{stroke-dasharray:27.7;stroke-dashoffset:27.7;animation:k45 9.0s linear infinite}@keyframes k46{0%,0.8%{stroke-dashoffset:28.4}5.3%,100%{stroke-dashoffset:0}}.l46{stroke-dasharray:28.4;stroke-dashoffset:28.4;animation:k46 9.0s linear infinite}@keyframes k47{0%,12.6%{stroke-dashoffset:42.4}19.3%,100%{stroke-dashoffset:0}}.l47{stroke-dasharray:42.4;stroke-dashoffset:42.4;animation:k47 9.0s linear infinite}@keyframes k48{0%,6.8%{stroke-dashoffset:37.0}12.6%,100%{stroke-dashoffset:0}}.l48{stroke-dasharray:37.0;stroke-dashoffset:37.0;animation:k48 9.0s linear infinite}@keyframes k49{0%,1.5%{stroke-dashoffset:29.1}6.1%,100%{stroke-dashoffset:0}}.l49{stroke-dasharray:29.1;stroke-dashoffset:29.1;animation:k49 9.0s linear infinite}@keyframes k50{0%,2.1%{stroke-dashoffset:29.8}6.8%,100%{stroke-dashoffset:0}}.l50{stroke-dasharray:29.8;stroke-dashoffset:29.8;animation:k50 9.0s linear infinite}@keyframes k51{0%,6.3%{stroke-dashoffset:35.1}11.9%,100%{stroke-dashoffset:0}}.l51{stroke-dasharray:35.1;stroke-dashoffset:35.1;animation:k51 9.0s linear infinite}@keyframes k52{0%,1.5%{stroke-dashoffset:30.5}6.3%,100%{stroke-dashoffset:0}}.l52{stroke-dasharray:30.5;stroke-dashoffset:30.5;animation:k52 9.0s linear infinite}
+@keyframes g0{0%,62.0%{fill:var(--paper)}62.1%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g0{animation:g0 9.0s linear infinite}@keyframes g1{0%,46.1%{fill:var(--paper)}46.2%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g1{animation:g1 9.0s linear infinite}@keyframes g2{0%,34.2%{fill:var(--paper)}34.3%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g2{animation:g2 9.0s linear infinite}@keyframes g3{0%,20.9%{fill:var(--paper)}21.0%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g3{animation:g3 9.0s linear infinite}@keyframes g4{0%,24.1%{fill:var(--paper)}24.2%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g4{animation:g4 9.0s linear infinite}@keyframes g5{0%,33.3%{fill:var(--paper)}33.4%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g5{animation:g5 9.0s linear infinite}@keyframes g6{0%,23.2%{fill:var(--paper)}23.3%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g6{animation:g6 9.0s linear infinite}@keyframes g7{0%,20.2%{fill:var(--paper)}20.3%,82%{fill:var(--drought)}86%,100%{fill:var(--paper)}}.g7{animation:g7 9.0s linear infinite}
+@media (prefers-reduced-motion:reduce){.dry,.dryg,.gauge{animation:none!important}.dry{stroke-dashoffset:0!important}}</style>
+<rect class="bg" width="1200" height="320" rx="12"/>
+<text class="eyebrow" x="48" y="92">PHD RESEARCHER · IPE-CSIC · ZARAGOZA</text>
+<text class="name" x="46" y="158">Alex Crespillo López</text>
+<text class="tag" x="48" y="204">How drought travels through rivers.</text>
+<text class="small" x="48" y="246">Drought propagation · streamflow · river networks · machine learning</text>
+<g>
+<path class="base" d="M1050.2,165.8 Q1100.3,167.1 1150.0,160.0" stroke-width="5.84"/>
+<path class="base" d="M980.4,191.6 Q1011.5,168.4 1050.2,165.8" stroke-width="4.29"/>
+<path class="base" d="M939.6,233.9 Q965.3,217.9 980.4,191.6" stroke-width="3.12"/>
+<path class="base" d="M923.8,275.9 Q938.9,257.7 939.6,233.9" stroke-width="1.95"/>
+<path class="base" d="M897.7,252.2 Q921.6,249.9 939.6,233.9" stroke-width="2.90"/>
+<path class="base" d="M867.5,276.1 Q885.1,267.3 897.7,252.2" stroke-width="2.34"/>
+<path class="base" d="M858.2,303.3 Q863.8,290.0 867.5,276.1" stroke-width="1.95"/>
+<path class="base" d="M837.5,290.2 Q851.1,280.2 867.5,276.1" stroke-width="1.95"/>
+<path class="base" d="M863.1,246.8 Q881.2,244.7 897.7,252.2" stroke-width="2.34"/>
+<path class="base" d="M837.7,258.1 Q850.2,251.9 863.1,246.8" stroke-width="1.95"/>
+<path class="base" d="M840.2,231.5 Q853.3,236.7 863.1,246.8" stroke-width="1.95"/>
+<path class="base" d="M916.6,192.4 Q948.6,194.6 980.4,191.6" stroke-width="3.51"/>
+<path class="base" d="M865.7,217.8 Q895.0,212.8 916.6,192.4" stroke-width="2.90"/>
+<path class="base" d="M840.7,259.6 Q849.9,236.7 865.7,217.8" stroke-width="2.34"/>
+<path class="base" d="M837.3,296.4 Q840.1,278.1 840.7,259.6" stroke-width="1.95"/>
+<path class="base" d="M805.4,273.7 Q821.7,263.3 840.7,259.6" stroke-width="1.95"/>
+<path class="base" d="M817.0,216.6 Q841.2,225.1 865.7,217.8" stroke-width="2.34"/>
+<path class="base" d="M780.7,232.5 Q799.7,226.5 817.0,216.6" stroke-width="1.95"/>
+<path class="base" d="M786.3,192.5 Q800.8,205.6 817.0,216.6" stroke-width="1.95"/>
+<path class="base" d="M867.1,171.8 Q891.8,182.3 916.6,192.4" stroke-width="2.65"/>
+<path class="base" d="M820.2,181.2 Q842.8,172.1 867.1,171.8" stroke-width="1.95"/>
+<path class="base" d="M839.8,137.3 Q848.2,158.8 867.1,171.8" stroke-width="2.34"/>
+<path class="base" d="M810.2,126.1 Q825.1,131.5 839.8,137.3" stroke-width="1.95"/>
+<path class="base" d="M844.7,103.1 Q836.8,119.4 839.8,137.3" stroke-width="1.95"/>
+<path class="base" d="M978.7,140.1 Q1012.0,159.8 1050.2,165.8" stroke-width="4.55"/>
+<path class="base" d="M915.3,148.4 Q948.2,152.9 978.7,140.1" stroke-width="3.51"/>
+<path class="base" d="M866.5,173.2 Q889.4,157.8 915.3,148.4" stroke-width="2.90"/>
+<path class="base" d="M840.4,206.7 Q855.1,191.3 866.5,173.2" stroke-width="2.34"/>
+<path class="base" d="M835.6,240.1 Q839.2,223.6 840.4,206.7" stroke-width="1.95"/>
+<path class="base" d="M804.8,212.3 Q821.8,204.2 840.4,206.7" stroke-width="1.95"/>
+<path class="base" d="M820.3,163.6 Q842.2,174.1 866.5,173.2" stroke-width="2.34"/>
+<path class="base" d="M781.3,176.6 Q799.9,167.3 820.3,163.6" stroke-width="1.95"/>
+<path class="base" d="M793.3,133.3 Q807.7,147.7 820.3,163.6" stroke-width="1.95"/>
+<path class="base" d="M870.2,125.6 Q896.7,129.3 915.3,148.4" stroke-width="2.65"/>
+<path class="base" d="M833.0,124.2 Q851.7,123.4 870.2,125.6" stroke-width="2.34"/>
+<path class="base" d="M805.5,138.4 Q817.3,127.5 833.0,124.2" stroke-width="1.95"/>
+<path class="base" d="M802.2,116.3 Q818.2,117.9 833.0,124.2" stroke-width="1.95"/>
+<path class="base" d="M852.2,89.1 Q857.0,109.4 870.2,125.6" stroke-width="1.95"/>
+<path class="base" d="M930.3,112.6 Q957.5,121.1 978.7,140.1" stroke-width="3.51"/>
+<path class="base" d="M886.2,121.3 Q909.0,120.5 930.3,112.6" stroke-width="2.90"/>
+<path class="base" d="M855.5,144.8 Q869.2,131.0 886.2,121.3" stroke-width="2.34"/>
+<path class="base" d="M844.8,170.8 Q851.3,158.3 855.5,144.8" stroke-width="1.95"/>
+<path class="base" d="M826.8,146.2 Q841.3,148.7 855.5,144.8" stroke-width="1.95"/>
+<path class="base" d="M853.7,116.6 Q870.4,116.1 886.2,121.3" stroke-width="2.34"/>
+<path class="base" d="M827.8,125.6 Q839.6,117.9 853.7,116.6" stroke-width="1.95"/>
+<path class="base" d="M828.7,104.0 Q839.3,114.1 853.7,116.6" stroke-width="1.95"/>
+<path class="base" d="M905.7,78.2 Q920.1,93.9 930.3,112.6" stroke-width="2.65"/>
+<path class="base" d="M872.6,62.2 Q887.6,73.4 905.7,78.2" stroke-width="2.34"/>
+<path class="base" d="M843.8,59.7 Q858.4,58.5 872.6,62.2" stroke-width="1.95"/>
+<path class="base" d="M853.9,39.6 Q859.6,54.0 872.6,62.2" stroke-width="1.95"/>
+<path class="base" d="M897.3,44.6 Q896.5,62.6 905.7,78.2" stroke-width="1.95"/>
+<path class="base" d="M875.6,23.5 Q888.5,31.9 897.3,44.6" stroke-width="1.95"/>
+</g><g class="dryg">
+<path class="dry l1" d="M1050.2,165.8 Q1100.3,167.1 1150.0,160.0" stroke-width="5.84"/>
+<path class="dry l2" d="M980.4,191.6 Q1011.5,168.4 1050.2,165.8" stroke-width="4.29"/>
+<path class="dry l3" d="M939.6,233.9 Q965.3,217.9 980.4,191.6" stroke-width="3.12"/>
+<path class="dry l4" d="M923.8,275.9 Q938.9,257.7 939.6,233.9" stroke-width="1.95"/>
+<path class="dry l5" d="M897.7,252.2 Q921.6,249.9 939.6,233.9" stroke-width="2.90"/>
+<path class="dry l6" d="M867.5,276.1 Q885.1,267.3 897.7,252.2" stroke-width="2.34"/>
+<path class="dry l7" d="M858.2,303.3 Q863.8,290.0 867.5,276.1" stroke-width="1.95"/>
+<path class="dry l8" d="M837.5,290.2 Q851.1,280.2 867.5,276.1" stroke-width="1.95"/>
+<path class="dry l9" d="M863.1,246.8 Q881.2,244.7 897.7,252.2" stroke-width="2.34"/>
+<path class="dry l10" d="M837.7,258.1 Q850.2,251.9 863.1,246.8" stroke-width="1.95"/>
+<path class="dry l11" d="M840.2,231.5 Q853.3,236.7 863.1,246.8" stroke-width="1.95"/>
+<path class="dry l12" d="M916.6,192.4 Q948.6,194.6 980.4,191.6" stroke-width="3.51"/>
+<path class="dry l13" d="M865.7,217.8 Q895.0,212.8 916.6,192.4" stroke-width="2.90"/>
+<path class="dry l14" d="M840.7,259.6 Q849.9,236.7 865.7,217.8" stroke-width="2.34"/>
+<path class="dry l15" d="M837.3,296.4 Q840.1,278.1 840.7,259.6" stroke-width="1.95"/>
+<path class="dry l16" d="M805.4,273.7 Q821.7,263.3 840.7,259.6" stroke-width="1.95"/>
+<path class="dry l17" d="M817.0,216.6 Q841.2,225.1 865.7,217.8" stroke-width="2.34"/>
+<path class="dry l18" d="M780.7,232.5 Q799.7,226.5 817.0,216.6" stroke-width="1.95"/>
+<path class="dry l19" d="M786.3,192.5 Q800.8,205.6 817.0,216.6" stroke-width="1.95"/>
+<path class="dry l20" d="M867.1,171.8 Q891.8,182.3 916.6,192.4" stroke-width="2.65"/>
+<path class="dry l21" d="M820.2,181.2 Q842.8,172.1 867.1,171.8" stroke-width="1.95"/>
+<path class="dry l22" d="M839.8,137.3 Q848.2,158.8 867.1,171.8" stroke-width="2.34"/>
+<path class="dry l23" d="M810.2,126.1 Q825.1,131.5 839.8,137.3" stroke-width="1.95"/>
+<path class="dry l24" d="M844.7,103.1 Q836.8,119.4 839.8,137.3" stroke-width="1.95"/>
+<path class="dry l25" d="M978.7,140.1 Q1012.0,159.8 1050.2,165.8" stroke-width="4.55"/>
+<path class="dry l26" d="M915.3,148.4 Q948.2,152.9 978.7,140.1" stroke-width="3.51"/>
+<path class="dry l27" d="M866.5,173.2 Q889.4,157.8 915.3,148.4" stroke-width="2.90"/>
+<path class="dry l28" d="M840.4,206.7 Q855.1,191.3 866.5,173.2" stroke-width="2.34"/>
+<path class="dry l29" d="M835.6,240.1 Q839.2,223.6 840.4,206.7" stroke-width="1.95"/>
+<path class="dry l30" d="M804.8,212.3 Q821.8,204.2 840.4,206.7" stroke-width="1.95"/>
+<path class="dry l31" d="M820.3,163.6 Q842.2,174.1 866.5,173.2" stroke-width="2.34"/>
+<path class="dry l32" d="M781.3,176.6 Q799.9,167.3 820.3,163.6" stroke-width="1.95"/>
+<path class="dry l33" d="M793.3,133.3 Q807.7,147.7 820.3,163.6" stroke-width="1.95"/>
+<path class="dry l34" d="M870.2,125.6 Q896.7,129.3 915.3,148.4" stroke-width="2.65"/>
+<path class="dry l35" d="M833.0,124.2 Q851.7,123.4 870.2,125.6" stroke-width="2.34"/>
+<path class="dry l36" d="M805.5,138.4 Q817.3,127.5 833.0,124.2" stroke-width="1.95"/>
+<path class="dry l37" d="M802.2,116.3 Q818.2,117.9 833.0,124.2" stroke-width="1.95"/>
+<path class="dry l38" d="M852.2,89.1 Q857.0,109.4 870.2,125.6" stroke-width="1.95"/>
+<path class="dry l39" d="M930.3,112.6 Q957.5,121.1 978.7,140.1" stroke-width="3.51"/>
+<path class="dry l40" d="M886.2,121.3 Q909.0,120.5 930.3,112.6" stroke-width="2.90"/>
+<path class="dry l41" d="M855.5,144.8 Q869.2,131.0 886.2,121.3" stroke-width="2.34"/>
+<path class="dry l42" d="M844.8,170.8 Q851.3,158.3 855.5,144.8" stroke-width="1.95"/>
+<path class="dry l43" d="M826.8,146.2 Q841.3,148.7 855.5,144.8" stroke-width="1.95"/>
+<path class="dry l44" d="M853.7,116.6 Q870.4,116.1 886.2,121.3" stroke-width="2.34"/>
+<path class="dry l45" d="M827.8,125.6 Q839.6,117.9 853.7,116.6" stroke-width="1.95"/>
+<path class="dry l46" d="M828.7,104.0 Q839.3,114.1 853.7,116.6" stroke-width="1.95"/>
+<path class="dry l47" d="M905.7,78.2 Q920.1,93.9 930.3,112.6" stroke-width="2.65"/>
+<path class="dry l48" d="M872.6,62.2 Q887.6,73.4 905.7,78.2" stroke-width="2.34"/>
+<path class="dry l49" d="M843.8,59.7 Q858.4,58.5 872.6,62.2" stroke-width="1.95"/>
+<path class="dry l50" d="M853.9,39.6 Q859.6,54.0 872.6,62.2" stroke-width="1.95"/>
+<path class="dry l51" d="M897.3,44.6 Q896.5,62.6 905.7,78.2" stroke-width="1.95"/>
+<path class="dry l52" d="M875.6,23.5 Q888.5,31.9 897.3,44.6" stroke-width="1.95"/>
+</g><g>
+<circle class="gauge g0" cx="1150.0" cy="160.0" r="6"/>
+<circle class="gauge g1" cx="1050.2" cy="165.8" r="4.6"/>
+<circle class="gauge g2" cx="980.4" cy="191.6" r="4.6"/>
+<circle class="gauge g3" cx="939.6" cy="233.9" r="4.6"/>
+<circle class="gauge g4" cx="916.6" cy="192.4" r="4.6"/>
+<circle class="gauge g5" cx="978.7" cy="140.1" r="4.6"/>
+<circle class="gauge g6" cx="915.3" cy="148.4" r="4.6"/>
+<circle class="gauge g7" cx="930.3" cy="112.6" r="4.6"/>
+</g>
+<text class="lbl" x="1142" y="184" text-anchor="middle">OUTLET</text>
+</svg>

@@ -1,146 +1,34 @@
-# Hi there 👋 I'm Alex Crespillo López
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Alex Crespillo López: how drought travels through rivers" width="100%">
+</picture>
 
-<p align="center">
-  <a href="https://portfoliofinalalex.netlify.app">
-    <img src="https://github.com/AlexCrespillo/AlexCrespillo/blob/main/header.png?raw=true" 
-         alt="Header - Alex Crespillo López" width="100%">
-  </a>
-</p>
+I am a PhD researcher at the [Pyrenean Institute of Ecology (IPE-CSIC)](https://www.ipe.csic.es/) in Zaragoza, in the [Laboratory of Climatology and Climate Services](https://lcsc.csic.es/). I study how hydrological drought propagates through river networks: where it starts, how it moves downstream, and what controls the delay between one reach and the next.
 
+[Website](https://alexcrespillo.github.io/Webpage/) · [CV](https://alexcrespillo.github.io/Webpage/Cv/CV_Alex_Crespillo_english.pdf) · [ORCID](https://orcid.org/0009-0009-3918-8702) · [ResearchGate](https://www.researchgate.net/profile/Alex-Crespillo) · [LinkedIn](https://www.linkedin.com/in/alexcrespillo) · [alex@ipe.csic.es](mailto:alex@ipe.csic.es)
 
-### 🌍 Climate Data Scientist | 🔬 Predoctoral Researcher | 🤖 AI Enthusiast
+### Research
 
-*"Understanding climate extremes through the lens of artificial intelligence and big data"*
+My thesis follows hydrological drought through the river network in four steps, from measuring it to predicting it:
 
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://portfoliofinalalex.netlify.app)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Alex-Crespillo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexcrespillo)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0009-0009-3918-8702)
+1. **Tracking propagation, event by event.** Droughts identified at each gauge from daily streamflow and matched between nested gauges along the network. *Published.*
+2. **How propagation has changed** over recent decades, in river networks across Europe and beyond. *In preparation.*
+3. **What controls it:** network structure, catchment storage, groundwater, snow and river regulation. *Ongoing.*
+4. **Predicting it** with machine learning, from upstream signals to downstream reaches. *Planned.*
 
-</div>
+### Code
 
----
+- [**Code_v.1**](https://github.com/AlexCrespillo/Code_v.1): the full pipeline of *Tracking hydrological drought propagation in river networks: an event-based framework* (Journal of Hydrology, 2026). MIT licence, archived on Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22755834.svg)](https://doi.org/10.5281/zenodo.22755834)
+- [**Drought_Dashboard**](https://github.com/AlexCrespillo/Drought_Dashboard): interactive panel of hydrological drought events in the Ebro river basin.
 
-## 🧑‍🔬 About Me
+### Selected publications
 
-I'm a **Predoctoral Researcher** at the [Pyrenean Institute of Ecology (IPE-CSIC)](https://www.ipe.csic.es/) in Zaragoza, Spain, where I study **meteorological and hydrological droughts, heat waves, and their complex interactions** using cutting-edge **Artificial Intelligence** and **Big Data techniques**.
+- **Crespillo López, A.**, Vicente-Serrano, S. M., Gimeno, L. (2026). Tracking hydrological drought propagation in river networks: an event-based framework. *Journal of Hydrology*, 680, 136544. [doi:10.1016/j.jhydrol.2026.136544](https://doi.org/10.1016/j.jhydrol.2026.136544)
+- Vicente-Serrano, S. M., et al., including **Crespillo, A.** (2026). Non-stationary dry-spell hazard probabilities for Spain. *International Journal of Climatology*, e70393. [doi:10.1002/joc.70393](https://doi.org/10.1002/joc.70393)
+- Vicente-Serrano, S. M., et al., including **Crespillo, A.** (2025). Developing science-informed maps and climate service for extreme rainfall in Spain. *Natural Hazards*, 121, 23281–23302. [doi:10.1007/s11069-025-07731-0](https://doi.org/10.1007/s11069-025-07731-0)
 
-My research focuses on improving our understanding of drought–heatwave dynamics to enhance early warning systems and build climate resilience for the future.
+The full list, with talks, is on my [website](https://alexcrespillo.github.io/Webpage/#publications).
 
-### 🎯 Current Research
-- **Meteorological & Hydrological Droughts** analysis and prediction
-- **Heat Wave** characterization and propagation patterns
-- **AI-driven climate modeling** and extreme event forecasting
-- **Big Data approaches** to climate data analysis
+### Tools
 
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Data Science & Visualization
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF9F00?style=for-the-badge&logo=gradio&logoColor=white)
-
-### GIS & Spatial Analysis
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2F5F8A?style=for-the-badge&logo=arcgis&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
-
-### Other Tools
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🎓 Education
-
-🎯 **Master's in Mathematical Engineering and HPC** | UNIR *(2025–present)*  
-🌦️ **Master's in Meteorology** | University of Barcelona *(2022–2024)*  
-🌍 **Bachelor's in Geology** | Autonomous University of Barcelona *(2018–2022)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCrespillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCrespillo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📚 Latest Publications
-- 📄 **Vicente-Serrano, S. M., S.Beguería, A.Royo, et al. 2026. “Non-Stationary Dry-Spell Hazard Probabilities for Spain.” International Journal of Climatologye70393. https://doi.org/10.1002/joc.70393. — **Coauthor**
-- 📄 **Vicente-Serrano, S. M.**, et al. "Developing science-informed maps and climate service for extreme rainfall in Spain ." *Springer - Natural Hazards* (2025) — **Coauthor**
-- 📄 **Halifa Marin, A.**, et al. "Spatial Assessment of Dry-Spell Hazards in Spain: Toward an Operational Climate Service." *Water Scarcity and Drought* (2025) — **Coauthor**
-- 📄 **Vicente-Serrano, S. M.**, et al. "An optimal and flexible approach for drought quantification based on standardized indices." *International Journal of Climatology* (2025) — **Coauthor**
-- 📄 **Crespillo López, A.**, "Thermal inversion analysis in Andorra Central Valley and its relationship with pollutants and meteorological variables." *EMS Annual Meeting* (2024) — **Author**
-
----
-
-## 🌍 International Experience
-
-🇳🇴 **Research Stay in Tromsø, Norway** *(Mar–Jun 2024)*  
-🇫🇷 **Academic Stays in France** *(Carcassonne, Toulouse, Bordeaux, Paris, and more)*
-
----
-
-## 🗣️ Languages
-
-🇪🇸 **Spanish** (Native) | 🏴 **Catalan** (Native) | 🇬🇧 **English** (B2) | 🇫🇷 **French** (B2)
-
----
-
-## 🏆 Certifications & Training
-
-- 🐍 **The Complete Python Developer** - Udemy
-- 📊 **Complete R Course for Data Science and Machine Learning** - Udemy
-- 🤖 **17th Machine Learning and Advanced Statistics Summer School** - UPM
-- 📈 **Data Analytics and AI Bootcamp** - Upgrade Hub
-- 🌡️ **IV Extremadura Congress of Climatology** - University of Badajoz
-
----
-
-## 🎯 Fun Facts
-
-- 🏔️ I love exploring mountains and nature
-- 🍳 Passionate about cooking and trying new recipes
-- ✈️ Travel enthusiast with a keen eye for different cultures
-- 📚 Always learning something new in climate science and AI
-- 🌱 Advocate for climate resilience and environmental sustainability
-
----
-
-<div align="center">
-
-### 💭 *"Climate data is not just numbers—it's the story of our planet's future"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=AlexCrespillo&color=blue&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/AlexCrespillo?label=Follow&style=social)](https://github.com/AlexCrespillo)
-
-**🌟 Let's collaborate on climate science and AI projects! 🌟**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/AlexCrespillo/AlexCrespillo/blob/main/footer.png?raw=true" 
-       alt="Footer - Alex Crespillo López" width="100%">
-</div>
-
+Python and R for hydrological and climate time series and extreme-value statistics · scikit-learn, PyTorch, TensorFlow and Keras · river networks from digital elevation models, ArcGIS · large data volumes and GPU computing · Git, LaTeX, Streamlit, Plotly
