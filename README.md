@@ -19,6 +19,7 @@ My thesis follows hydrological drought through the river network in four steps, 
 ### Code
 
 - [**Code_v.1**](https://github.com/AlexCrespillo/Code_v.1): the full pipeline of *Tracking hydrological drought propagation in river networks: an event-based framework* (Journal of Hydrology, 2026). MIT licence, archived on Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22755834.svg)](https://doi.org/10.5281/zenodo.22755834)
+
 ### Selected publications
 
 - **Crespillo López, A.**, Vicente-Serrano, S. M., Gimeno, L. (2026). Tracking hydrological drought propagation in river networks: an event-based framework. *Journal of Hydrology*, 680, 136544. [doi:10.1016/j.jhydrol.2026.136544](https://doi.org/10.1016/j.jhydrol.2026.136544)
